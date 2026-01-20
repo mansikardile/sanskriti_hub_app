@@ -4,7 +4,6 @@ import 'package:sanskriti_hub_app/screens/crafts_screen.dart'; // Import this
 import 'package:sanskriti_hub_app/screens/courses_screen.dart'; // Import this (the renamed file)
 import 'package:sanskriti_hub_app/screens/home_page.dart';
 import 'package:sanskriti_hub_app/screens/profile_screen.dart';
-import 'package:flutter_dotenv/flutter_dotenv.dart';
   
 
 void main() {
